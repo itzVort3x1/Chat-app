@@ -1,6 +1,7 @@
 # ninja-chat
 
 > A Vue.js project
+> Check out the website Here [ninja-chat](https://ninja-chat-680a5.web.app/)
 
 ## Build Setup
 
