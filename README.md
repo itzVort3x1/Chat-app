@@ -1,7 +1,8 @@
 # ninja-chat
 
-> A Vue.js project
-> Check out the website Here [ninja-chat](https://ninja-chat-680a5.web.app/)
+> A Vue.js project <br/>
+> Check out the website Here [ninja-chat](https://ninja-chat-680a5.web.app/)<br/>
+> NOTE:: Any Chats sent on this platform is seen by Everyone.... This is Strictly for learning purposes only!
 
 ## Build Setup
 
